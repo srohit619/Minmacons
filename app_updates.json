@@ -2,8 +2,7 @@
     "latestVersion": "3.1",
     "latestVersionCode": 3,
     "disableRequest": {
-        "below": 10,
-        "on": "40 20 353"
+        "below": 1
     },
     "url": "https://github.com/srohit619/App_Minmacons/blob/main/app_updates.json",
     "releaseNotes": [
