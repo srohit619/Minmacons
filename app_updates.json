@@ -4,10 +4,9 @@
     "disableRequest": {
         "below": 1
     },
-    "url": "https://github.com/srohit619/App_Minmacons/blob/main/app_updates.json",
-    "releaseNotes": [
-        "This is the text which will be shown on Update",
-        "Another Release Note",
-        "You can Use <b>Text</b> <i>Formatting</i> <u>Too</u>"
+    "url": "https://play.google.com/store/apps/details?id=com.rohitshetty.minmacons": [
+        "New Redesigned Version",
+        "Req Enabled Now",
+        "Connect Here: <a href="https://t.me/rs_app_support">Telegram Support Group.</u>"
     ]
 }
