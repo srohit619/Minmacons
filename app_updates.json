@@ -1,12 +1,13 @@
 {
-    "latestVersion": "3.1",
+    "latestVersion": "2.2",
     "latestVersionCode": 3,
     "disableRequest": {
         "below": 1
     },
-    "url": "https://play.google.com/store/apps/details?id=com.rohitshetty.minmacons": [
+    "url": "https://play.google.com/store/apps/details?id=com.rohitshetty.minmacons",
+    "releaseNotes": [
         "New Redesigned Version",
         "Req Enabled Now",
-        "Connect Here: <a href="https://t.me/rs_app_support">Telegram Support Group.</u>"
+        "Update the app for More Changelogs"
     ]
 }
