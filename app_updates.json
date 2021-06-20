@@ -1,11 +1,11 @@
 {
-    "latestVersion": "2.1",
-    "latestVersionCode": 15,
+    "latestVersion": "2.2",
+    "latestVersionCode": 16,
     "disableRequest": {
-        "below": 15
+        "below": 16
     },
     "url": "https://play.google.com/store/apps/details?id=com.rohitshetty.minmacons",
     "releaseNotes": [
-        "Added Missing Activities & More"
+        "Fixed Bugs,Added Missing Activities & More"
     ]
 }
