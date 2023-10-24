@@ -1,4 +1,6 @@
 # MinMaCons Icon Pack
+![Language: Java](https://img.shields.io/badge/Language-Java-blue)
+![API Level: 33](https://img.shields.io/badge/API%20Level-33-brightgreen)
 
 MinMaCons is a new icons pack, which is the non-background (Non-BG) version of Minma Icon Pack (Free). These icons are designed with simplicity and minimalism in mind, tailored for Android phones.
 
@@ -80,16 +82,7 @@ Feel free to contact me at any time via email or Telegram (links below).
 - Pasha Puma (Helping in Icon_Pack stuff)
 - DZH Group (Testing)
 
-## Contact Information
-- Telegram Community: [Android Customization](https://t.me/androidcustomisation)
-- My Twitter: [Rohit Shetty](https://twitter.com/therohitshettys)
-- Telegram Account: @therohitshetty
-- Gmail: [devrohitshetty@gmail.com](mailto:devrohitshetty@gmail.com)
-
 ## Follow Me
-- My YouTube: [Rohit Shetty](https://www.youtube.com/user/srohit1996)
-- Telegram Community: [Android Customization](https://t.me/androidcustomisation)
 - My Twitter: [Rohit Shetty](https://twitter.com/therohitshetty)
 
-![Language: Java](https://img.shields.io/badge/Language-Java-blue)
-![API Level: 33](https://img.shields.io/badge/API%20Level-33-brightgreen)
+
