@@ -2,9 +2,12 @@
 ![Language: Java](https://img.shields.io/badge/Language-Java-blue)
 ![API Level: 33](https://img.shields.io/badge/API%20Level-33-brightgreen)
 
+
 MinMaCons is a new icons pack, which is the non-background (Non-BG) version of Minma Icon Pack (Free). These icons are designed with simplicity and minimalism in mind, tailored for Android phones.
 
 **Note:** This is the initial release, so the number of icons is limited. However, more unique icons will be added in the next update. Please bear in mind that I'm not a professional designer, and some icons may look different, but I'm committed to improving them. If you encounter any issues, feel free to contact me before rating the icon pack.
+### [Playstore Link](https://play.google.com/store/apps/details?id=com.rohitshetty.minmacons)
+
 
 ## Features
 - Total 1120+ Icons for now
