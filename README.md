@@ -1,62 +1,95 @@
-**Privacy Policy**
+# MinMaCons Icon Pack
 
-Rohit Shetty built the Minmacons Icon Pack app as a Paid app. This SERVICE is provided by Rohit Shetty and is intended for use as is.
+MinMaCons is a new icons pack, which is the non-background (Non-BG) version of Minma Icon Pack (Free). These icons are designed with simplicity and minimalism in mind, tailored for Android phones.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+**Note:** This is the initial release, so the number of icons is limited. However, more unique icons will be added in the next update. Please bear in mind that I'm not a professional designer, and some icons may look different, but I'm committed to improving them. If you encounter any issues, feel free to contact me before rating the icon pack.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+## Features
+- Total 1120+ Icons for now
+- Resolution is 200x200px
+- License Checker
+- Icon Request Tool
+- Stroked Style Icons
+- Icons without backgrounds
+- Multiple app masking backgrounds for unthemed icons
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Icon Pack unless otherwise defined in this Privacy Policy.
+## Setting Up Icons with Nova Launcher
 
-**Information Collection and Use**
+**Note:** Always use black or dark wallpapers with my icon pack for better customization.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+**Home Screen**
+- Try Icon Layout 120%~130%
+- Label Off
+- Dock Off
 
-The app does use third party services that may collect information used to identify you.
+**App Drawer**
+- Try Icon Layout set to 110%~130%
+- Layout On
 
-Link to privacy policy of third party service providers used by the app
+**Look and Feel**
+- Try disabling (Normalize icon size)
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
+To use this icon pack, you need a custom launcher with support for themes like Nova Launcher.
 
-**Log Data**
+Feel free to contact me at any time via email or Telegram (links below).
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+## Tips
+1. To use alternative icons, simply hold the app icon, choose edit, then select MinMaCons icons, and select the desired icon.
+2. Use these icons with dark or black wallpapers or themes for a better look.
+3. Check out the FAQ section within the app for better understanding.
+4. To request an app icon, join my Telegram community.
 
-**Cookies**
+## Supported Launchers
+- ABC Launcher (Recommended)
+- ADW Launcher
+- Action Launcher
+- Apex Launcher
+- Atom Launcher
+- Aviate Launcher
+- BlackBerry Launcher
+- CM Theme Engine
+- Evie Launcher (Recommended)
+- GO Launcher
+- Holo Launcher
+- Holo Launcher HD
+- Lawnchair Launcher
+- Niagara Launcher
+- LG Home
+- Lucid Launcher
+- M Launcher
+- Microsoft Launcher
+- Mini Launcher
+- Next Launcher
+- Nougat Launcher
+- Nova Launcher (Highly Recommended)
+- Pixel Launcher
+- Posiden Launcher
+- Oxygen Launcher
+- Smart Launcher
+- Solo Launcher
+- Square Launcher
+- V Launcher
+- ZenUI Launcher
+- Zero Launcher
+- Poco Launcher
+- And many other launchers not included in the apply section.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+## Credits
+- Dani Mahardhika (Candybar Dashboard)
+- Sarsa Murmu (Improved Candybar Dashboard)
+- Pasha Puma (Helping in Icon_Pack stuff)
+- DZH Group (Testing)
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+## Contact Information
+- Telegram Community: [Android Customization](https://t.me/androidcustomisation)
+- My Twitter: [Rohit Shetty](https://twitter.com/therohitshettys)
+- Telegram Account: @therohitshetty
+- Gmail: [devrohitshetty@gmail.com](mailto:devrohitshetty@gmail.com)
 
-**Service Providers**
+## Follow Me
+- My YouTube: [Rohit Shetty](https://www.youtube.com/user/srohit1996)
+- Telegram Community: [Android Customization](https://t.me/androidcustomisation)
+- My Twitter: [Rohit Shetty](https://twitter.com/therohitshetty)
 
-I may employ third-party companies and individuals due to the following reasons:
-
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
-
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
-
-**Security**
-
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
-
-**Links to Other Sites**
-
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
-**Children’s Privacy**
-
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13\. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
-
-**Changes to This Privacy Policy**
-
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
-
-This policy is effective as of 2022-09-06
-
-**Contact Us**
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at devrohitshetty@gmail.com.
+![Language: Java](https://img.shields.io/badge/Language-Java-blue)
+![API Level: 33](https://img.shields.io/badge/API%20Level-33-brightgreen)
